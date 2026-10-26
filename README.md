@@ -19,5 +19,4 @@ Saya baru memulakan perjalanan saya dalam dunia pengaturcaraan dan GitHub. Sanga
 ---
 
 ### 📬 Mari Berhubung!
-- 💼 [LinkedIn](https://linkedin.com/in/username-anda)
-- 🌐 [Laman Web / Portfolio](https://lamanwebanda.com)
+- 💼 [LinkedIn](https://linkedin.com/in/Teo Ke Xuan)
