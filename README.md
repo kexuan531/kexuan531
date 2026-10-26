@@ -1,4 +1,4 @@
-# 👋 Hi, saya Teo Ke Xuan!
+# 👋 Hi, I am Teo Ke Xuan!
 
 Saya baru memulakan perjalanan saya dalam dunia pengaturcaraan dan GitHub. Sangat teruja untuk belajar perkara baharu dan bekerjasama dalam pelbagai projek!
 
